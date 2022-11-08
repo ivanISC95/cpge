@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -14,19 +15,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-image: url("Assets/Img/FondoPrincipal.png");
+  background-repeat: repeat-y;
+  --background-color: #8EC5FC;
+  --background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%); 
+  min-height: 92vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +35,28 @@
   to {
     transform: rotate(360deg);
   }
+}
+.App-Dialogo{
+  width: 90%;
+  height: 50%;  
+  border-radius:22px;
+  background-color: rgba(255, 255, 255, 0.3);
+  text-align: center;
+  font-size: 110%;
+}
+
+.App-Titulos{
+  width: 90%;   
+  border-radius:22px;
+  background-color: rgba(255, 255, 255, 0.3);
+  text-align: center;
+  font-size: 110%;
+  align-items: center;
+}
+.App-Navbar{
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+.App-Card{
+  font-size: 10px;
 }
