@@ -27,8 +27,13 @@ export default function ModalContacto() {
                     <div>
                         <AiOutlineMail  /> firemanf58@gmail.com
                     </div>
+
                 </Modal.Body>
-                
+                <Modal.Footer>
+                    <Button variant="danger" onClick={handleClose}>
+                        Cerrar
+                    </Button>
+                </Modal.Footer>
             </Modal>
         </>
     )

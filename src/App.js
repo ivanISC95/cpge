@@ -42,10 +42,8 @@ function App() {
         </Container>
       </Navbar>
       <Routes>
-        <Route path='' element={<Inicio />} />
         <Route path='/' element={<Inicio />} />
-        <Route path='*' element={<Inicio />} />
-        <Route path='https://ivanisc95.github.io/' element={<Inicio />} />
+        <Route path='*' element={<Inicio />} />        
         <Route path='/Nosotros' element={<Nosotros />} />
         <Route path='/Servicios/:id' element={<Servicios />} />
       </Routes>
