@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cpge/static/css/main.d35d655b.css",
+    "main.js": "/cpge/static/js/main.59510495.js",
+    "static/js/787.ffce08eb.chunk.js": "/cpge/static/js/787.ffce08eb.chunk.js",
+    "static/media/FondoPrincipal.png": "/cpge/static/media/FondoPrincipal.d424aa180c81f407a7df.png",
+    "static/media/SL2.png": "/cpge/static/media/SL2.22e3a5f086bc7ac25034.png",
+    "static/media/SL1.png": "/cpge/static/media/SL1.6e3612b8566288b1e5d6.png",
+    "static/media/SL3.png": "/cpge/static/media/SL3.93a17ad064d816e37ca4.png",
+    "static/media/SD1.png": "/cpge/static/media/SD1.88d9d8c1832b77583647.png",
+    "static/media/SD3.png": "/cpge/static/media/SD3.62e1d35a7b0e2f62e2f6.png",
+    "static/media/SL4.png": "/cpge/static/media/SL4.31ad88c54b90fa8d6240.png",
+    "static/media/SD2.png": "/cpge/static/media/SD2.db61b00f0adb2f3068a8.png",
+    "static/media/CPGE.png": "/cpge/static/media/CPGE.d2942053e0b649eb3c90.png",
+    "index.html": "/cpge/index.html",
+    "main.d35d655b.css.map": "/cpge/static/css/main.d35d655b.css.map",
+    "main.59510495.js.map": "/cpge/static/js/main.59510495.js.map",
+    "787.ffce08eb.chunk.js.map": "/cpge/static/js/787.ffce08eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d35d655b.css",
+    "static/js/main.59510495.js"
+  ]
+}
