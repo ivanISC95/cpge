@@ -42,7 +42,7 @@ function App() {
         </Container>
       </Navbar>
       <Routes>
-        <Route path='/' element={<Inicio />} />
+        <Route path='./' element={<Inicio />} />
         <Route path='*' element={<Inicio />} />        
         <Route path='/Nosotros' element={<Nosotros />} />
         <Route path='/Servicios/:id' element={<Servicios />} />
