@@ -18,7 +18,7 @@ export default function Servicios() {
       console.log(data)
     return (
         <div className="App-header">
-            <h1 className="App-Titulos">Servicio {id}</h1>
+            <h1 className="App-Titulos">Servicio: {id}</h1>
             <br />
             <div className="App-Dialogo">
                 <Row xs={1} md={4} >
