@@ -10,7 +10,7 @@ import Servicios from './Components/Servicios/Servicios';
 function App() {
 
   return (
-    <Router >
+    <Router basename="/cpge">
       <Navbar collapseOnSelect expand="lg">
         <Container >
           <Navbar.Brand as={Link} to='/'>
